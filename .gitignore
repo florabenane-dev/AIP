@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 PR/
 .git/
+*/_MACOSX/
+*/.DS_Store
